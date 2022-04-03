@@ -35,7 +35,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 <summary><b>🔗 String Session</b></summary>
 <br>
     
-> You'll need a [API_ID](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars#1.-api_id) & [API_HASH](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars#2.-api_hash) in order to generate pyrogram session. 
+> You'll need a [API_ID](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars#1.-api_id) & [API_HASH](https://notreallyshikhar.gitbook.io/yukkimusicbot/vars/mandatory-vars#2.-api_hash) in order to generate pyrogram session
 > Always remeber to use good API combo else your account could be deleted.
 
 <h4> Generate Session via Repl: </h4>    
@@ -55,7 +55,7 @@ Read [Docs](https://notreallyshikhar.gitbook.io/yukkimusicbot/deployment/require
 > Those two vars are not Mandatory! You can leave them blank too. 
     
 <h4>Click the button below to deploy Yukki on Heroku!</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Gameralpha/MYPERSONALEDIT.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/hopepsycho/music.git"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="200"/></a></p>
     
 </details>
 
